@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...가톨릭 대학교 성의교정
-- 🌱 I’m currently learning ... 신경계
+- 🌱 I’m currently learning ... 정신
 - 👯 I’m looking to collaborate on ... 약동학
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
